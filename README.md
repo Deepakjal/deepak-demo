@@ -1,3 +1,3 @@
 # deepak-demo
-This is my first Reository
+This is my first Repository
 Author - Jalbabu
